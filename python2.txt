@@ -1,5 +1,5 @@
 a=5.1
 print(a)
-
+b=6
 double a = 5.1;
-printf("%lf", a);
+printf("%lf", a + b);
