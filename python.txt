@@ -1,3 +1,6 @@
 print("Hello World")
 
-202203178/정승환/컴퓨터공학과
+#202203178/정승환/컴퓨터공학과
+
+cout<<"Hello World, this is C"<<endl;
+//added C language in line 5 and 6
